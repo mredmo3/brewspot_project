@@ -1,0 +1,163 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+}
+/* User login reg */
+
+.container1 {
+  background-image: url(/Users/mattredmond/Desktop/JavaScript/brewspot_solo_project/client/src/views/beansBackground.avif);
+  background-size: 100vw, 100vh;
+}
+.header {
+  display: block;
+  height: 100px;
+  background-color: rgb(119, 84, 20);
+  color: wheat;
+  margin-bottom: 10px;
+}
+.register {
+  display: block;
+  border-radius: 20px;
+  padding: 10px;
+  align-items: center;
+  margin-top: 10px;
+  font-size: 30px;
+}
+.registerButton {
+  color: wheat;
+  background-color: rgb(119, 84, 20);
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+.loginButton {
+  color: wheat;
+  background-color: rgb(119, 84, 20);
+  border-radius: 10px;
+  font-size: 20px;
+  margin-left: 10px;
+}
+
+.login {
+  display: block;
+  border-radius: 20px;
+  padding: 10px;
+  align-items: center;
+  margin-top: 10px;
+  font-size: 30px;
+}
+
+/* Coffee add and display */
+
+.mainHeader {
+  display: block;
+  height: 100px;
+  background-color: rgb(119, 84, 20);
+  color: wheat;
+}
+.logoutButton {
+  color: wheat;
+  background-color: rgb(45, 38, 25);
+  border-radius: 10px;
+  font-size: 20px;
+  margin-left: 10px;
+}
+
+.container2 {
+  background-image: url(/Users/mattredmond/Desktop/JavaScript/brewspot_solo_project/client/src/views/blackBeansBackground.jpeg);
+  background-size: 100vw, 100vh;
+}
+
+.coffeeAdd {
+  display: block;
+  border-radius: 20px;
+  padding: 5px;
+  align-items: center;
+  color: wheat;
+  margin-top: 10px;
+  font-size: 30px;
+}
+
+.addCoffeeButton {
+  color: wheat;
+  background-color: rgb(119, 84, 20);
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+.detailsLink {
+  color: rgb(237, 164, 30);
+}
+
+.coffeeList {
+  color: wheat;
+  padding: 5px;
+  font-size: 25px;
+}
+
+.text {
+  text-decoration: underline;
+  font-size: 30px;
+}
+
+.footer {
+  display: flex;
+  height: 100px;
+  background-color: rgb(119, 84, 20);
+  color: wheat;
+  justify-content: center;
+  margin-top: 10px;
+}
+/* Coffee update */
+
+.updateHeader {
+  display: block;
+  height: 100px;
+  background-color: rgb(119, 84, 20);
+  color: wheat;
+}
+
+.homeButton {
+  color: wheat;
+  background-color: rgb(45, 38, 25);
+  border-radius: 10px;
+  font-size: 20px;
+  margin-right: 10px;
+}
+.container3 {
+  background-image: url(/Users/mattredmond/Desktop/JavaScript/brewspot_solo_project/client/src/views/cupChocolate.avif);
+  background-size: 100vw, 100vh;
+}
+
+.updateForm {
+  display: block;
+  border-radius: 20px;
+  padding: 140px;
+  align-items: center;
+  color: #ffdfa3;
+  margin-top: 10px;
+  font-size: 30px;
+}
+
+.updateButtonSubmit {
+  color: #ffdfa3;
+  background-color: rgb(119, 84, 20);
+  border-radius: 10px;
+  font-size: 20px;
+  margin-right: 10px;
+}
+
+.deleteButton {
+  color: #ffdfa3;
+  background-color: rgb(119, 84, 20);
+  border-radius: 10px;
+  font-size: 20px;
+  margin-left: 10px;
+}
+
+.viewedList {
+  color: #ffdfa3;
+  padding: 135px;
+  margin-top: 10px;
+  font-size: 30px;
+}
